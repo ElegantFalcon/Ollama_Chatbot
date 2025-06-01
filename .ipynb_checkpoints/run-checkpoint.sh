@@ -3,6 +3,5 @@ echo "📦 Installing dependencies..."
 pip install -r requirements.txt
 
 echo "🚀 Launching chatbot UI..."
-python chatbot_with_sidebar.py
+python ollama_chatbot1.py
 
-chmod +x run.sh
